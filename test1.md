@@ -2,10 +2,7 @@
 
 _This is an example of a link [This is a link](https://en.wikipedia.org/wiki/Markdown)._
 
-*Some silly fun*:walking: :running:from :poop::heavy_exclamation_mark:
-
-
-
+_Some silly fun_:walking: :running:from :poop::heavy_exclamation_mark: Using Git
 
 ---
 
@@ -13,16 +10,20 @@ _This is an example of a link [This is a link](https://en.wikipedia.org/wiki/Mar
 
 ![Tux, the Linux mascot](Tux.svg.png)
 
+Euler's formula is remarkable: $e^{i\pi} + 1 = 0$.
+
+## Even Mr Linux is bowled over 😁
+
 ---
 
-####A Table
+####A Basic Table
 
 | First Name | Surname |
 | ---------- | ------- |
 | John       | Doe     |
 | David      | Waved   |
 
-####Data Table
+#### A Basic Data Table
 
 | Type | Make    | Engine | Style  | Doors |
 | ---- | ------- | ------ | ------ | ----- |
@@ -38,10 +39,8 @@ It's not possible to embed videos directly, but you can put an image which links
 
 <span style="color:blue">if i were a fish would i be blue</span>.
 
->When did the word turn <span style="color:blue">Blue</span>?
+> When did the word turn <span style="color:blue">Blue</span>?
 
->Oops ! has it turned <span style="color:red">Red</span> :smiley: 
+> Oops ! has it turned <span style="color:red">Red</span> :smiley:
 
-
-
-
+> &copy; Miles BetterWebDesigns.👍
