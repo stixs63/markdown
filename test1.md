@@ -2,7 +2,9 @@
 
 _This is an example of a link [This is a link](https://en.wikipedia.org/wiki/Markdown)._
 
-_Some silly fun_:walking: :running:from :poop::heavy_exclamation_mark: Using Git
+_Some silly fun_:walking: 🚶:running: 🏃from :poop:💩:heavy_exclamation_mark:❗ Using Git and windows emojis
+:warning: emojis in git markdown code don't always render properly.
+but windows emojis seem to work.⚠️:smiley:😄
 
 ---
 
